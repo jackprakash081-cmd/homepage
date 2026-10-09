@@ -1,0 +1,26 @@
+
+Git is a distributed version control system for tracking code changes,
+ while GitHub is a cloud-based platform that hosts Git repositories and adds collaboration tools like pull requests, issues, and access control.
+
+
+What Git Is?
+Git is a distributed version control system created by Linus Torvalds in 2005. 
+GitHub
+GitHub
+Tracks code changes, maintains full project history, and allows branching, merging, and reverting.
+Works locally on your machine; every developer has a full copy of the repository. 
+GeeksforGeeks
+GeeksforGeeks
+Key concepts: repository, clone, stage, commit, branch, merge, pull, push. 
+GitHub
+GitHub
+What GitHub Is
+GitHub is a web-based hosting platform for Git repositories, owned by Microsoft. 
+GitHub
+GitHub
+Adds collaboration features:
+Pull requests
+Issues
+Code reviews
+Team and access management
+Works as a centralized online hub for sharing and managing Git repositories. 

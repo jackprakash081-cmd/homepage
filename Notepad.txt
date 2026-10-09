@@ -24,3 +24,5 @@ Issues
 Code reviews
 Team and access management
 Works as a centralized online hub for sharing and managing Git repositories. 
+
+git is also used to perform branching & merging
